@@ -14,7 +14,7 @@ Welcome to my student portfolio for *COSC 111*. This repository contains a compi
 
 | Lab Act #4 | This code from our activity monitors the temperature, and if it gets hotter than 50°C, it triggers an alarm where the LED blinks continuously; the alarm stays on until you manually type "stop" in the Serial Monitor to turn it off. |
 
-| *ab Act #5 | This is the first activity we use python and arduino, this activity's code establishes a connection between a computer and an Arduino using Python to control LEDs remotely. Basically, the Python script runs a menu on the PC where you can select commands like toggling specific colors Red, Green, Blue or turning them all on and off then sends those characters over the serial port to the Arduino, which then receives the signal and lights up the corresponding LEDs. |
+| Lab Act #5 | This is the first activity we use python and arduino, this activity's code establishes a connection between a computer and an Arduino using Python to control LEDs remotely. Basically, the Python script runs a menu on the PC where you can select commands like toggling specific colors Red, Green, Blue or turning them all on and off then sends those characters over the serial port to the Arduino, which then receives the signal and lights up the corresponding LEDs. |
 
 | Lab Act #6 | This code from our activity sets up a two way communication system where pressing a physical button on the Arduino sends a signal to the Python script on the computer; the Python script then recognizes the button press and sends a command back to the Arduino to toggle the correct Red, Green, or Blue LED. |
 
